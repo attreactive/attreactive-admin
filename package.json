@@ -8,8 +8,7 @@
     "cls": "~0.1",
     "jquery": "~1.11",
     "moment": "~2.7",
-    "attreactive-router": "~0.1",
-    "attreactive-menu": "~0.1"
+    "attreactive-router": "~0.1"
   },
   "devDependencies": {
     "jest-cli": "~0.1",
